@@ -31,11 +31,7 @@ int main() {
 
 ---
 
-Here’s a **detailed explanation** of **Access Specifiers in C++** in clean **Markdown (.md) format** with clear code examples 👇
 
----
-
-````md id="n7x4kp"
 # Access Specifiers in C++
 
 Access specifiers define **how the members (variables & functions) of a class can be accessed**.
